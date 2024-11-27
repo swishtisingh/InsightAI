@@ -54,3 +54,11 @@ To use and test the app, follow these steps:
 - **Custom Solution Architecture**: Explore building a custom solution architecture using LLMs and code interpreters for more control and flexibility.
 - **Integration with NLP Libraries**: Include NLP capabilities to create word clouds from textual data.
 - **Integration with LIDA**: Incorporate LIDA for more precise data-inclined recommendations for visual representation.
+
+## Author
+
+### Srishti Singh
+Data Scientist and Machine Learning Enthusiast
+Feel free to connect with me on [LinkedIn.](https://www.linkedin.com/in/srishti-singh-921aa52aa/)
+
+### Happy Coding!
